@@ -13,14 +13,10 @@ namespace test2
             Console.WriteLine("hallo test2");
             Console.WriteLine("testtttttt");
             Console.WriteLine("test 3333");
-            Console.WriteLine("testCommit nur local ");
-            Console.WriteLine("hallo test2");
-            Console.WriteLine("hallo test2");
-            Console.WriteLine("testtttttt");
-            Console.WriteLine("test 3333");
-            Console.WriteLine("testCommit nur local ");
-            Console.WriteLine("hallo test2");
+
+            Console.WriteLine("change undo ");
             Console.ReadKey();
+
             Console.ReadKey();
         }
     }
